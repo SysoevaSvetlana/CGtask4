@@ -1,8 +1,8 @@
-package org.example.Math;
+package org.example.Math.Vectors;
 
 import static java.lang.Math.abs;
 
-public class NDimensionalVector implements Vector{
+public class NDimensionalVector implements Vector {
 
     final protected double[] values;
     protected int dimensional; //Размерность вектора (количество компонентов)

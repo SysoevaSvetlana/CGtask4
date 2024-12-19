@@ -1,4 +1,4 @@
-package org.example.Math;
+package org.example.Math.Vectors;
 
 public interface Vector {
     public double[] getArrValues(); //массив значений вектора

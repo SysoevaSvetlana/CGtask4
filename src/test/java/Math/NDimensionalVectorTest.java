@@ -1,5 +1,7 @@
-import org.example.Math.NDimensionalVector;
-import org.example.Math.Vector;
+package Math;
+
+import org.example.Math.Vectors.NDimensionalVector;
+import org.example.Math.Vectors.Vector;
 import org.junit.jupiter.api.Test;
 import static org.junit.jupiter.api.Assertions.*;
 
